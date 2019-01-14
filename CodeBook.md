@@ -29,161 +29,161 @@ Activities
 
 ### MEASUREMENTS
 
-timeDomain Body Accelerometer  Mean X
+time.domain Body Accelerometer  Mean X
 
-timeDomain Body Accelerometer  Mean Y
+time.domain Body Accelerometer  Mean Y
 
-timeDomain Body Accelerometer  Mean Z
+time.domain Body Accelerometer  Mean Z
 
-timeDomain Body Accelerometer  Std X
+time.domain Body Accelerometer  Std X
 
-timeDomain Body Accelerometer  Std Y
+time.domain Body Accelerometer  Std Y
 
-timeDomain Body Accelerometer  Std Z
+time.domain Body Accelerometer  Std Z
 
-timeDomain Gravity Accelerometer  Mean X
+time.domain Gravity Accelerometer  Mean X
 
-timeDomain Gravity Accelerometer  Mean Y
+time.domain Gravity Accelerometer  Mean Y
 
-timeDomain Gravity Accelerometer  Mean Z
+time.domain Gravity Accelerometer  Mean Z
 
-timeDomain Gravity Accelerometer  Std X
+time.domain Gravity Accelerometer  Std X
 
-timeDomain Gravity Accelerometer  Std Y
+time.domain Gravity Accelerometer  Std Y
 
-timeDomain Gravity Accelerometer  Std Z
+time.domain Gravity Accelerometer  Std Z
 
-timeDomain Body Accelerometer Jerk Mean X
+time.domain Body Accelerometer Jerk Mean X
 
-timeDomain Body Accelerometer Jerk Mean Y
+time.domain Body Accelerometer Jerk Mean Y
 
-timeDomain Body Accelerometer Jerk Mean Z
+time.domain Body Accelerometer Jerk Mean Z
 
-timeDomain Body Accelerometer Jerk Std X
+time.domain Body Accelerometer Jerk Std X
 
-timeDomain Body Accelerometer Jerk Std Y
+time.domain Body Accelerometer Jerk Std Y
 
-timeDomain Body Accelerometer Jerk Std Z
+time.domain Body Accelerometer Jerk Std Z
 
-timeDomain Body Gyroscope  Mean X
+time.domain Body Gyroscope  Mean X
 
-timeDomain Body Gyroscope  Mean Y
+time.domain Body Gyroscope  Mean Y
 
-timeDomain Body Gyroscope  Mean Z
+time.domain Body Gyroscope  Mean Z
 
-timeDomain Body Gyroscope  Std X
+time.domain Body Gyroscope  Std X
 
-timeDomain Body Gyroscope  Std Y
+time.domain Body Gyroscope  Std Y
 
-timeDomain Body Gyroscope  Std Z
+time.domain Body Gyroscope  Std Z
 
-timeDomain Body Gyroscope Jerk Mean X
+time.domain Body Gyroscope Jerk Mean X
 
-timeDomain Body Gyroscope Jerk Mean Y
+time.domain Body Gyroscope Jerk Mean Y
 
-timeDomain Body Gyroscope Jerk Mean Z
+time.domain Body Gyroscope Jerk Mean Z
 
-timeDomain Body Gyroscope Jerk Std X
+time.domain Body Gyroscope Jerk Std X
 
-timeDomain Body Gyroscope Jerk Std Y
+time.domain Body Gyroscope Jerk Std Y
 
-timeDomain Body Gyroscope Jerk Std Z
+time.domain Body Gyroscope Jerk Std Z
 
-timeDomain Body Accelerometer  Magnitude  Mean 
+time.domain Body Accelerometer  Magnitude  Mean
 
-timeDomain Body Accelerometer  Magnitude  Std 
+time.domain Body Accelerometer  Magnitude  Std
 
-timeDomain Gravity Accelerometer  Magnitude  Mean 
+time.domain Gravity Accelerometer  Magnitude  Mean
 
-timeDomain Gravity Accelerometer  Magnitude  Std 
+time.domain Gravity Accelerometer  Magnitude  Std
 
-timeDomain Body Accelerometer Jerk Magnitude  Mean 
+time.domain Body Accelerometer Jerk Magnitude  Mean
 
-timeDomain Body Accelerometer Jerk Magnitude  Std 
+time.domain Body Accelerometer Jerk Magnitude  Std
 
-timeDomain Body Gyroscope  Magnitude  Mean 
+time.domain Body Gyroscope  Magnitude  Mean
 
-timeDomain Body Gyroscope  Magnitude  Std 
+time.domain Body Gyroscope  Magnitude  Std
 
-timeDomain Body Gyroscope Jerk Magnitude  Mean 
+time.domain Body Gyroscope Jerk Magnitude  Mean
 
-timeDomain Body Gyroscope Jerk Magnitude  Std 
+time.domain Body Gyroscope Jerk Magnitude  Std
 
-frequencyDomain Body Accelerometer  Mean X
+frequency.domain Body Accelerometer  Mean X
 
-frequencyDomain Body Accelerometer  Mean Y
+frequency.domain Body Accelerometer  Mean Y
 
-frequencyDomain Body Accelerometer  Mean Z
+frequency.domain Body Accelerometer  Mean Z
 
-frequencyDomain Body Accelerometer  Std X
+frequency.domain Body Accelerometer  Std X
 
-frequencyDomain Body Accelerometer  Std Y
+frequency.domain Body Accelerometer  Std Y
 
-frequencyDomain Body Accelerometer  Std Z
+frequency.domain Body Accelerometer  Std Z
 
-frequencyDomain Body Accelerometer  Mean  Frequency X
+frequency.domain Body Accelerometer  Mean  Frequency X
 
-frequencyDomain Body Accelerometer  Mean  Frequency Y
+frequency.domain Body Accelerometer  Mean  Frequency Y
 
-frequencyDomain Body Accelerometer  Mean  Frequency Z
+frequency.domain Body Accelerometer  Mean  Frequency Z
 
-frequencyDomain Body Accelerometer Jerk Mean X
+frequency.domain Body Accelerometer Jerk Mean X
 
-frequencyDomain Body Accelerometer Jerk Mean Y
+frequency.domain Body Accelerometer Jerk Mean Y
 
-frequencyDomain Body Accelerometer Jerk Mean Z
+frequency.domain Body Accelerometer Jerk Mean Z
 
-frequencyDomain Body Accelerometer Jerk Std X
+frequency.domain Body Accelerometer Jerk Std X
 
-frequencyDomain Body Accelerometer Jerk Std Y
+frequency.domain Body Accelerometer Jerk Std Y
 
-frequencyDomain Body Accelerometer Jerk Std Z
+frequency.domain Body Accelerometer Jerk Std Z
 
-frequencyDomain Body Accelerometer Jerk Mean  Frequency X
+frequency.domain Body Accelerometer Jerk Mean  Frequency X
 
-frequencyDomain Body Accelerometer Jerk Mean  Frequency Y
+frequency.domain Body Accelerometer Jerk Mean  Frequency Y
 
-frequencyDomain Body Accelerometer Jerk Mean  Frequency Z
+frequency.domain Body Accelerometer Jerk Mean  Frequency Z
 
-frequencyDomain Body Gyroscope  Mean X
+frequency.domain Body Gyroscope  Mean X
 
-frequencyDomain Body Gyroscope  Mean Y
+frequency.domain Body Gyroscope  Mean Y
 
-frequencyDomain Body Gyroscope  Mean Z
+frequency.domain Body Gyroscope  Mean Z
 
-frequencyDomain Body Gyroscope  Std X
+frequency.domain Body Gyroscope  Std X
 
-frequencyDomain Body Gyroscope  Std Y
+frequency.domain Body Gyroscope  Std Y
 
-frequencyDomain Body Gyroscope  Std Z
+frequency.domain Body Gyroscope  Std Z
 
-frequencyDomain Body Gyroscope  Mean  Frequency X
+frequency.domain Body Gyroscope  Mean  Frequency X
 
-frequencyDomain Body Gyroscope  Mean  Frequency Y
+frequency.domain Body Gyroscope  Mean  Frequency Y
 
-frequencyDomain Body Gyroscope  Mean  Frequency Z
+frequency.domain Body Gyroscope  Mean  Frequency Z
 
-frequencyDomain Body Accelerometer  Magnitude  Mean 
+frequency.domain Body Accelerometer  Magnitude  Mean
 
-frequencyDomain Body Accelerometer  Magnitude  Std 
+frequency.domain Body Accelerometer  Magnitude  Std
 
-frequencyDomain Body Accelerometer  Magnitude  Mean  Frequency 
+frequency.domain Body Accelerometer  Magnitude  Mean  Frequency
 
-frequencyDomain Body Accelerometer Jerk Magnitude  Mean 
+frequency.domain Body Accelerometer Jerk Magnitude  Mean
 
-frequencyDomain Body Accelerometer Jerk Magnitude  Std 
+frequency.domain Body Accelerometer Jerk Magnitude  Std
 
-frequencyDomain Body Accelerometer Jerk Magnitude  Mean  Frequency 
+frequency.domain Body Accelerometer Jerk Magnitude  Mean  Frequency
 
-frequencyDomain Body Gyroscope  Magnitude  Mean 
+frequency.domain Body Gyroscope  Magnitude  Mean
 
-frequencyDomain Body Gyroscope  Magnitude  Std 
+frequency.domain Body Gyroscope  Magnitude  Std
 
-frequencyDomain Body Gyroscope  Magnitude  Mean  Frequency
+frequency.domain Body Gyroscope  Magnitude  Mean  Frequency
 
-frequencyDomain Body Gyroscope Jerk Magnitude  Mean
+frequency.domain Body Gyroscope Jerk Magnitude  Mean
 
-frequencyDomain Body Gyroscope Jerk Magnitude  Std
+frequency.domain Body Gyroscope Jerk Magnitude  Std
 
-frequencyDomain Body Gyroscope Jerk Magnitude  Mean  Frequency 
+frequency.domain Body Gyroscope Jerk Magnitude  Mean  Frequency
 
